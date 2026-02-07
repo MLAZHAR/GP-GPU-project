@@ -43,19 +43,24 @@ The repository is structured as follows:
 ├── docs/         # Project documentation and diagrams
 └── README.md     # Project overview and instructions
 
-##🚀 Hardware Implementation Plan
-As part of the project objectives, the Tiny-GPU architecture is planned to be implemented on an FPGA board. This critical step aims to:
+## 🚀 Hardware Implementation Plan
+As part of the project objectives, the Tiny-GPU architecture is planned to be implemented on an **FPGA board**. This critical step aims to:
+1. **Validate** the design in real hardware.
+2. **Bridge the gap** between theoretical simulation and physical implementation.
 
-Validate the design in real hardware.
+---
 
-Bridge the gap between theoretical simulation and physical implementation.
+## 📢 Acknowledgment & References
+The **architectural concept and initial inspiration** for this project are based on the open-source Tiny-GPU project.
 
-##📢 Acknowledgment & References
-The architectural concept and initial inspiration for this project are based on the open-source Tiny-GPU project.
+* **Original Reference:** [Tiny-GPU on GitHub](https://github.com/adam-maj/tiny-gpu)
 
-Original Reference: Tiny-GPU on GitHub
+This repository represents an **independent academic implementation** developed specifically for educational purposes, including custom simulation workflows and planned FPGA deployment.
 
-This repository represents an independent academic implementation developed specifically for educational purposes, including custom simulation workflows and planned FPGA deployment.
+---
+
+## ⚠️ Disclaimer
+This project is developed **solely for educational and academic evaluation purposes**. The source code is provided for review and learning and is **not intended for commercial use**.
 
 ⚠️ Disclaimer
 This project is developed solely for educational and academic evaluation purposes. The source code is provided for review and learning and is not intended for commercial use.
