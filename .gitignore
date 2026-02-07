@@ -1,0 +1,12 @@
+# ModelSim Junk
+work/
+transcript
+*.wlf
+*.bak
+*.mpf
+*.mti
+*.vstf
+compile.log
+
+# Windows Junk
+Thumbs.db
