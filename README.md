@@ -42,7 +42,7 @@ The repository is structured as follows:
 ├── testbench/    # Simulation testbenches and verification files
 ├── docs/         # Project documentation and diagrams
 └── README.md     # Project overview and instructions
-
+```
 ## 🚀 Hardware Implementation Plan
 As part of the project objectives, the Tiny-GPU architecture is planned to be implemented on an **FPGA board**. This critical step aims to:
 1. **Validate** the design in real hardware.
